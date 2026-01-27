@@ -37,3 +37,7 @@
 #6
 # for i in range(1,6):
 #     print("*"*i)
+
+n=int(input("Enter the string: "))
+for i in range(1,n+1):
+    print(i,end=" ")
